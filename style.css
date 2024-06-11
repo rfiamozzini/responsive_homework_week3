@@ -1,3 +1,9 @@
+@media (max-width: 431px) {
+  h1 {
+    font-size: 48px;
+  }
+}
+
 :root {
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
@@ -85,4 +91,10 @@ p {
 
 .email-link:hover {
   text-decoration: underline;
+}
+
+@media (max-width: 431px) {
+  h1 {
+    font-size: 48px;
+  }
 }
